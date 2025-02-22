@@ -17,6 +17,7 @@ const StayConnected = () => {
               initial="hidden"
               whileInView="visible"
               viewport={{ once: true }}
+              variants={fadeInUp}
             >
               Stay Updated – Join Our <br />
               Telegram Channel!
@@ -25,6 +26,7 @@ const StayConnected = () => {
               initial="hidden"
               whileInView="visible"
               viewport={{ once: true }}
+              variants={fadeInUp}
             >
               Be the first to know the raffle results, event <br />
               updates, and exclusive Clarity Global insights.
@@ -32,7 +34,8 @@ const StayConnected = () => {
             <motion.div
               initial="hidden"
               whileInView="visible"
-              viewport={{ once: true }}
+                viewport={{ once: true }}
+              variants={fadeInUp}
             >
               <Link href="https://t.me/+yQGYniRsLHNiMDM8" target="_blank">
                 Join <WhiteArrow />
@@ -48,6 +51,7 @@ const StayConnected = () => {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
+            variants={fadeInUp}
           >
             Good Luck!
           </motion.h2>
@@ -55,6 +59,7 @@ const StayConnected = () => {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
+            variants={fadeInUp}
           >
             We look forward to meeting you at Affiliate World Dubai and inviting
             you to explore our <br />
