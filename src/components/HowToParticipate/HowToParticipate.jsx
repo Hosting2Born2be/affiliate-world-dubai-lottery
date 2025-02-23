@@ -34,8 +34,7 @@ const HowToParticipate = () => {
             variants={fadeInUp}
             className={styles.item}
           >
-            <span className={styles.number}>1</span>
-            <h3>Step</h3>
+            <img src="/images/step1.svg" alt="step1" />
             <p>Fill out the form below</p>
           </motion.div>
           <motion.div
@@ -45,8 +44,7 @@ const HowToParticipate = () => {
             variants={fadeInUp}
             className={styles.item}
           >
-            <span className={styles.number}>2</span>
-            <h3>Step</h3>
+            <img src="/images/step2.svg" alt="step2" />
             <p>Get your unique raffle number</p>
           </motion.div>
           <motion.div
@@ -56,8 +54,7 @@ const HowToParticipate = () => {
             variants={fadeInUp}
             className={styles.item}
           >
-            <span className={styles.number}>3</span>
-            <h3>Step</h3>
+            <img src="/images/step3.svg" alt="step3" />
             <p>Join us at Affiliate World Dubai</p>
           </motion.div>
         </div>
