@@ -30,11 +30,15 @@ const mont = localFont({
 });
 
 export const metadata = {
-  title: "Affiliate World Dubai",
-  description: "",
+  title:
+    "Clarity Global at Affiliate World Dubai: Exclusive Raffle & Seamless Payment Solutions",
+  description:
+    "Join our exclusive raffle at Affiliate World Dubai and win amazing prizes from Clarity Global! Discover seamless, secure, and efficient payment solutions designed for your business success. Enjoy fast payments, multi-currency support, transparent pricing, and full regulatory compliance - all tailored for your needs.",
   openGraph: {
-    title: "Affiliate World Dubai",
-    description: "",
+    title:
+      "Clarity Global at Affiliate World Dubai: Exclusive Raffle & Seamless Payment Solutions",
+    description:
+      "Join our exclusive raffle at Affiliate World Dubai and win amazing prizes from Clarity Global! Discover seamless, secure, and efficient payment solutions designed for your business success. Enjoy fast payments, multi-currency support, transparent pricing, and full regulatory compliance - all tailored for your needs.",
   },
 };
 
