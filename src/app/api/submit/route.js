@@ -103,7 +103,7 @@ export async function POST(request) {
     <thead>
         <tr>
             <td>
-                <img style="width: 100%" src="https://sigma-dubai-lottery.clarityglobalinc.com/images/email_header.png"
+                <img style="width: 100%" src="https://affiliate-world-dubai-lottery.clarityglobalinc.com/images/email_header.png"
                     alt="Header" />
             </td>
         </tr>
@@ -224,7 +224,7 @@ padding: 32px;">
                 text-underline-offset: auto;
                 text-underline-position: from-font;">
                         <img width="15" height="15"
-                            src="https://sigma-dubai-lottery.clarityglobalinc.com/images/website_icon.png" alt="tg"
+                            src="https://affiliate-world-dubai-lottery.clarityglobalinc.com/images/website_icon.png" alt="tg"
                             style="float: left;margin-right: 6px;margin-top: -2px;" />
                         clarityglobalinc.com
                     </a>
@@ -242,7 +242,7 @@ padding: 32px;">
                     text-underline-offset: auto;
                     text-underline-position: from-font;">
                         <img width="15" height="15"
-                            src="https://sigma-dubai-lottery.clarityglobalinc.com/images/email_icon.png" alt="tg"
+                            src="https://affiliate-world-dubai-lottery.clarityglobalinc.com/images/email_icon.png" alt="tg"
                             style="float: left;margin-right: 6px;margin-top: -2px;" />
                         info@clarityglobalinc.com
                     </a></p>
@@ -253,18 +253,15 @@ padding: 32px;">
         <tr>
             <td style="background-color: #2D2D2D;
             padding: 40px;
-            background-image: url('https://sigma-dubai-lottery.clarityglobalinc.com/images/email_footer.png');
+            background-image: url('https://affiliate-world-dubai-lottery.clarityglobalinc.com/images/email_footer.png');
             background-position: bottom center;
             background-size: cover;
             ">
                 <table style="width: 100%;">
                     <tr>
                         <td style="width: 33%;vertical-align: baseline;">
-                            <p style="color: #F85C3A;
-                            font-size: 20px;
-                            font-style: normal;
-                            font-weight: 800;
-                            line-height: 140%;margin: 0 0 10px 0;">Clarity Global</p>
+                            <img style="width: 140px;margin-bottom: 10px;" src="https://affiliate-world-dubai-lottery.clarityglobalinc.com/images/email_logo.png"
+                    alt="logo" />
                             <p style="color: #F6F6F6;
                             font-size: 14px;
                             font-style: normal;
@@ -286,7 +283,7 @@ padding: 32px;">
                             margin-bottom: 7px;
                             text-decoration: none;">
                                 <img width="15" height="15"
-                                    src="https://sigma-dubai-lottery.clarityglobalinc.com/images/tg_icon.png" alt="tg"
+                                    src="https://affiliate-world-dubai-lottery.clarityglobalinc.com/images/tg_icon.png" alt="tg"
                                     style="float: left;margin-right: 6px;margin-top: -2px;" />
                                 @ClarityGlobalSupport
                             </a>
@@ -297,7 +294,7 @@ padding: 32px;">
                             line-height: normal;
                             text-decoration: none;">
                                 <img width="15" height="15"
-                                    src="https://sigma-dubai-lottery.clarityglobalinc.com/images/whatsapp_icon.png"
+                                    src="https://affiliate-world-dubai-lottery.clarityglobalinc.com/images/whatsapp_icon.png"
                                     alt="tg" style="float: left;margin-right: 6px;margin-top: -2px;" />
                                 +38669403456
                             </a>
